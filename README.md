@@ -28,4 +28,4 @@ This project is for educational purposes only and is not fully secure.
 python password_generator.py
 
 ## Run Tests
-python-m unittest test_password_generator.py
+python-m unittest test_password_generator.py# password-generator-final
